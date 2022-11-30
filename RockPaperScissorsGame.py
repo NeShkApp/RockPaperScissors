@@ -80,10 +80,3 @@ def Rock_Paper_Scissors():
     else:
         print(colored("You win!!! Well done!)))xD)", "green"))
         print()
-
-
-def main():
-    Rock_Paper_Scissors()
-
-
-main()
